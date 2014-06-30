@@ -1,0 +1,4 @@
+[24589.797925] hello_module: module license 'GPLv3' taints kernel.
+[24589.797934] Disabling lock debugging due to kernel taint
+[24589.798977] Hello World!
+[24695.823116] Module `hello` exits!
